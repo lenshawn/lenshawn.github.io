@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 I do research about light alloys, especially Mg, Ti, Al alloys. 
+
 我
 I focus on how to tailor microstructure, using Severe Plastic Deformation, Laser Processing or Additive Manufacturing, to obtain a functional gradient properties (Mechanical-degradation-damping-flame retardant properties, etc.)
 
