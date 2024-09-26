@@ -7,15 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I do research about light alloys, especially Mg, Ti, Al alloys.
-
-I am currently working as an assistant professor at Chongqing University.
+I do research about light alloys, especially Mg, Ti, Al alloys.I am currently working as an assistant professor at Chongqing University.
 
 I focus on how to tailor microstructure, using Severe Plastic Deformation, Laser Processing or Additive Manufacturing, to obtain a functional gradient properties (Mechanical-degradation-flame retardant properties, etc.)
 
-我研究轻合金，尤其是镁、钛、铝合金。
-
-我目前作为助理教授，在重庆大学工作。
+我研究轻合金，尤其是镁、钛、铝合金。我目前作为助理教授，在重庆大学工作。
 
 我的研究重点是如何利用大变形、激光加工或增材制造技术定制微观结构，以获得功能梯度特性（机械-降解-阻燃特性等）。
 
